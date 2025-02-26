@@ -15,5 +15,9 @@
     "url": "https://github.com/react-agents-registry/rate-limit/issues"
   },
   "homepage": "https://github.com/react-agents-registry/rate-limit#readme",
-  "description": ""
+  "description": "",
+  "pluginConfig": {
+    "type": "react-agents:1.0.0",
+    "parameters": {}
+  }
 }
